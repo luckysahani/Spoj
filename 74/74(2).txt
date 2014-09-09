@@ -1,0 +1,49 @@
+#include<iostream>
+#include<stdio.h>
+#include<math.h>
+using namespace std;
+int primefactsum(int a)
+{
+    int sum=1,c,d=a;
+	for(c=2;c<d;c++)
+	{
+		if((a%c==0)&&(c!=sqrt(a)))
+		{
+			sum=sum+c+(a/c);
+            d=(a/c);
+		}
+        if(c==sqrt(a))
+        {
+            sum=sum+c;
+        }
+	}
+	return sum;
+}
+int main()
+{
+	int a1;int sum=1,c,d,a;
+	scanf("%d",&a1);
+	int b[a1],c1[a1];
+	for(int i=0;i<a1;i++)
+	{
+		scanf("%d",&b[i]);d=a=b[i];
+		for(c=2;c<d;c++)
+		{
+			if((a%c==0)&&(c!=sqrt(a)))
+			{
+				sum=sum+c+(a/c);
+        			d=(a/c);
+			}
+   	    		if(c==sqrt(a))
+  	     		{
+  	         		sum=sum+c;
+  	     		}
+		}
+		c1[i]=sum;
+	}
+	for(int i=0;i<a;i++)
+	{
+		printf("\n%d",c1[i]);
+	}
+	return 0;
+}

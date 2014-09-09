@@ -1,0 +1,1006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"fin",
+				"final"
+			],
+			[
+				"p",
+				"pop"
+			],
+			[
+				"char",
+				"character"
+			],
+			[
+				"in",
+				"input1"
+			],
+			[
+				"out",
+				"out1"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"ch",
+				"character"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"che",
+				"check2"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"cs252",
+				"cs252assignment2"
+			],
+			[
+				"usr",
+				"username"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"coun",
+				"count1"
+			],
+			[
+				"sum",
+				"sumfactors"
+			],
+			[
+				"su",
+				"sumfactors"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"ex",
+				"exit1"
+			],
+			[
+				"exi",
+				"exit2"
+			],
+			[
+				"temp",
+				"temp-floor"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"int",
+				"input1"
+			],
+			[
+				"input",
+				"input1"
+			],
+			[
+				"te",
+				"temp1"
+			],
+			[
+				"inpu",
+				"input1"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"dig",
+				"digits"
+			],
+			[
+				"ic",
+				"include"
+			],
+			[
+				"fact",
+				"fact"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"tab",
+				"table_name"
+			],
+			[
+				"Fi",
+				"File_info"
+			],
+			[
+				"data",
+				"database_name"
+			],
+			[
+				"da",
+				"database_info"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"dat",
+				"database_name"
+			],
+			[
+				"upla",
+				"uploadfile"
+			],
+			[
+				"dis",
+				"discussion"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"item",
+				"item_l"
+			],
+			[
+				"con",
+				"contourareavar"
+			],
+			[
+				"pan",
+				"pname"
+			],
+			[
+				"to",
+				"toUTCString"
+			],
+			[
+				"name",
+				"name_map"
+			],
+			[
+				"j",
+				"javascript"
+			],
+			[
+				"img",
+				"img	Tag"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"fro",
+				"form"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"edit",
+				"editing"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"cr_",
+				"cr_project"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"u",
+				"unbind"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "3410/3410.cpp",
+			"settings":
+			{
+				"buffer_size": 323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "7974/7974.cpp",
+			"settings":
+			{
+				"buffer_size": 516,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "8670/8670.cpp",
+			"settings":
+			{
+				"buffer_size": 431,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "378/378.cpp",
+			"settings":
+			{
+				"buffer_size": 230,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "702/702.cpp",
+			"settings":
+			{
+				"buffer_size": 1437,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "7742/7742.cpp",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "random/adarsh/2.cpp",
+			"settings":
+			{
+				"buffer_size": 4880,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 51.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler()));",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"ls",
+			"sl"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/lucky/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/lucky/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/lucky/spoj/3442/3442.cpp",
+		"/home/lucky/spoj/4/4.cpp",
+		"/home/lucky/jutja/views/app_project_all.ejs",
+		"/home/lucky/spoj/1112/1112.cpp",
+		"/home/lucky/spoj/adarsh/1.c",
+		"/home/lucky/spoj/4/usingafter.cpp",
+		"/home/lucky/spoj/4/sol.cpp",
+		"/home/lucky/spoj/4/fianal.cpp",
+		"/home/lucky/spoj/4/4_3.cpp",
+		"/home/lucky/spoj/4/44_2.cpp",
+		"/media/lucky/Lucky_Stuff/company.txt",
+		"/home/lucky/Downloads/webserver_assignment.txt",
+		"/var/www/html/user.php",
+		"/var/www/html/delete1.php",
+		"/var/www/html/user.html",
+		"/var/www/html/upload3.php",
+		"/var/www/html/register.html",
+		"/var/www/html/forgot_password.php",
+		"/home/lucky/spoj/1724/a.out",
+		"/home/lucky/spoj/10395/output",
+		"/home/lucky/spoj/10395/input",
+		"/home/lucky/spoj/10395/10395_bysaving.cpp",
+		"/home/lucky/spoj/10395/10395.cpp",
+		"/home/lucky/spoj/1724/1724.cpp",
+		"/home/lucky/spoj/output_sol",
+		"/home/lucky/spoj/output_me",
+		"/home/lucky/spoj/input",
+		"/home/lucky/spoj/1724.cpp",
+		"/home/lucky/spoj/outputt_sol",
+		"/home/lucky/spoj/random.cpp",
+		"/home/lucky/spoj/1724_sol.cpp",
+		"/home/lucky/spoj/1724_temp_3.cpp",
+		"/home/lucky/spoj/1724_temp_2.cpp",
+		"/home/lucky/spoj/1724_temp.cpp",
+		"/home/lucky/spoj/bignum.cpp",
+		"/home/lucky/Downloads/cv_4.tex",
+		"/home/lucky/Downloads/resume_hardik.cls",
+		"/var/www/html/upload2.php",
+		"/home/lucky/cs252/ass2backup/upload3/upload3.php",
+		"/var/www/html/upload.php",
+		"/var/www/html/temp.txt",
+		"/home/lucky/jutja/auth.js",
+		"/home/lucky/jutja/public/js/create_project.js",
+		"/home/lucky/jutja/public/js/app.js",
+		"/home/lucky/jutja/public/demo_modular.js",
+		"/home/lucky/jutja/public/js/shepherd.js",
+		"/home/lucky/Downloads/cs252 downloads/ass1/phase7.sh",
+		"/home/lucky/Downloads/cs252 downloads/ass1/Final/phase7.sh",
+		"/home/lucky/Downloads/cs252 downloads/ass1/phase7.sh (2)",
+		"/home/lucky/Downloads/cs252 downloads/ass1/Final/phase8.sh",
+		"/home/lucky/Downloads/cs252 downloads/ass1/phase7_3.sh",
+		"/home/lucky/Downloads/cs252 downloads/ass1/Final/phase5.gnu",
+		"/home/lucky/Downloads/cs252 downloads/ass1/Final/phase4.pl",
+		"/home/lucky/Downloads/cs252 downloads/ass1/Final/phase3.sql",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase4.out",
+		"/home/lucky/cs252/assignment1/phase3.out",
+		"/home/lucky/cs252/assignment1/phase8.sh",
+		"/home/lucky/cs252/assignment1/phase3.sql",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase4.pl",
+		"/home/lucky/cs252/assignment1/temp2.out",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase3.sql",
+		"/home/lucky/cs252/assignment1/phase2 (copy).pl",
+		"/home/lucky/cs252/assignment1/phase2.pl",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase2.pl",
+		"/home/lucky/cs252/assignment1/phase1.out",
+		"/home/lucky/cs252/assignment1/names.txt",
+		"/home/lucky/cs252/assignment1/phase1.m",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase1.txt",
+		"/home/lucky/cs252/assignment1/CS251_hardik/12279/MY work/phase1.m",
+		"/home/lucky/jutja/views/modal_form.ejs",
+		"/home/lucky/jutja/public/css/timeline.css",
+		"/home/lucky/jutja/model/user.js",
+		"/home/lucky/jutja/public/css/app_css.css",
+		"/home/lucky/jutja/public/js/app_script.js",
+		"/home/lucky/jutja/views/menu.ejs",
+		"/home/lucky/resume/cv_2.tex",
+		"/home/lucky/Downloads/res.cls",
+		"/home/lucky/Downloads/res8.tex",
+		"/home/lucky/Downloads/res1.tex",
+		"/home/lucky/jutja/views/roboto.html",
+		"/home/lucky/jutja/public/js/paper-input.html",
+		"/home/lucky/jutja/public/css/polymer1.css",
+		"/home/lucky/jutja/public/js/platform.js",
+		"/home/lucky/Downloads/paper-input.html",
+		"/home/lucky/Downloads/polymer-tutorial-master/components/font-roboto/roboto.html",
+		"/home/lucky/jutja/public/demo.htm",
+		"/home/lucky/Downloads/polymer-tutorial-master/step-1/index.html",
+		"/home/lucky/jutja/newutil.js",
+		"/home/lucky/Downloads/AdminLTE-master/index.html",
+		"/home/lucky/jutja/public/js/graph.js",
+		"/home/lucky/jutja/public/css/modal.css",
+		"/home/lucky/Downloads/bootstrapvalidator-0.4.5/demo/index.html",
+		"/media/lucky/Lucky_Stuff/Lucky_Personal/Academics/Others/jutja files/ssh.txt",
+		"/media/lucky/56F4D4F9F4D4DBF5/Program Files (x86)/Counter-Strike Global Offensive/csgo/gamemodes.txt",
+		"/home/lucky/machine_learning/car_frames_filter/bgfg_segm.cpp",
+		"/home/lucky/machine_learning/vehicles_square/squares.cpp",
+		"/home/lucky/machine_learning/vehicle_square_2/squares_1.cpp",
+		"/home/lucky/machine_learning/tesseract1/result.txt",
+		"/home/lucky/machine_learning/tesseract1/result1.txt",
+		"/home/lucky/machine_learning/ocr_new/CMakeLists.txt",
+		"/home/lucky/machine_learning/ocr_new/2.cpp",
+		"/home/lucky/machine_learning/ocr_new/1.cpp",
+		"/home/lucky/machine_learning/tesseract1/CMakeLists.txt",
+		"/home/lucky/machine_learning/simple-ocr-opencv-master/README.md",
+		"/home/lucky/machine_learning/neural-ocr-master/CMakeLists.txt",
+		"/home/lucky/machine_learning/tesseract1/tess1.cpp",
+		"/home/lucky/machine_learning/simple-ocr-opencv-master/data/digits2.box",
+		"/home/lucky/machine_learning/simple-ocr-opencv-master/data/digits1.box",
+		"/home/lucky/machine_learning/basicOCR-master/basicOCR/CMakeLists.txt",
+		"/home/lucky/machine_learning/basicOCR-master/README.md",
+		"/home/lucky/machine_learning/vehicle_square_2/CMakeLists.txt",
+		"/home/lucky/machine_learning/template_recognition/CMakeLists.txt",
+		"/home/lucky/jutja files/ssh.txt",
+		"/home/lucky/machine_learning/template_recognition/m1.cpp",
+		"/home/lucky/machine_learning/vehicles_square/CMakeLists.txt",
+		"/home/lucky/Downloads/thumbnailSlider/themes/2/js-image-slider.js",
+		"/home/lucky/Downloads/AdminLTE-master/css/AdminLTE.css",
+		"/home/lucky/machine_learning/CMakeLists.txt",
+		"/home/lucky/Downloads/bgfg_segm.cpp",
+		"/home/lucky/jutja/views/signup.ejs",
+		"/home/lucky/jutja/views/login.ejs",
+		"/home/lucky/jutja/public/css/AdminLTE.css",
+		"/home/lucky/machine_learning/bgfg_segm.cpp",
+		"/media/lucky/5C5249E55249C50C/CMakeLists.txt",
+		"/media/lucky/5C5249E55249C50C/bgfg_segm.cpp",
+		"/home/lucky/jutja/public/css/intro_form.css"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^\\n",
+			"(pow(x,y%2)%10)",
+			"(pow(x,y%4)%10)",
+			"\"<<endl",
+			"\\n",
+			"x[i]",
+			"front",
+			"pop",
+			"input1.pop()",
+			"input[i]",
+			"\\end{rsection}",
+			"$_FILES[\"file\"]",
+			"txt",
+			"echo",
+			"fa-tras",
+			"fa-trash",
+			"fa-tras",
+			"trash",
+			"shepherd",
+			"get it ",
+			"get it u",
+			"control pan",
+			"notific",
+			"notifica",
+			"notif",
+			"call.submit_new",
+			"viewer",
+			"editor",
+			"editor a",
+			"editor",
+			"editor ",
+			"You Do",
+			"you do",
+			"editor and",
+			"shep",
+			"she",
+			"sh",
+			"hr",
+			"create",
+			"home",
+			"data.data.na",
+			"a.split",
+			"right-title",
+			"right-tit",
+			"Ass",
+			"Asss",
+			"Assign",
+			"Ass",
+			"class='nam",
+			"margin-right:15",
+			"-u test",
+			"password ",
+			"test",
+			"password ",
+			"mysql ",
+			"new",
+			"content-",
+			"content",
+			"get_chat",
+			"chatitems",
+			"chatitems'",
+			"chatitem",
+			"chatit",
+			"chat-box",
+			"padding-top",
+			"Info",
+			"INFO",
+			"info",
+			"HEAD",
+			"head",
+			"i><time class='cbp_tmtime'><span>\"+data[sorted[i][0]].task.due_date+\"</",
+			"i><time class='cbp_tmtime'><span>\"+data[sorted[i][0]].task.due_date+\"</span>",
+			"i><time class='cbp_tmtime'><span>\"+data[sorted[i][0]].task.due_date+\"</span></time>\"+\n							\"<div ",
+			"user_tas",
+			"	.cbp_tmtimeline > li:nth-child(even) .cbp_tmlabel",
+			"center you",
+			"disc",
+			"dis",
+			"font-size:16",
+			"notif",
+			"input",
+			"http",
+			"toastr",
+			"tile",
+			"disc",
+			"toastr.s",
+			"toastr",
+			"project",
+			"project cre",
+			"not se",
+			"status",
+			"reset",
+			"chat",
+			"slimscroll",
+			"slim-scroll",
+			"discus",
+			"dsilike",
+			"bPopup({",
+			"require",
+			"Go back to P",
+			"Go ba",
+			"right-tit",
+			"grava",
+			"right-title",
+			"www.gra",
+			"grava",
+			"prof",
+			"gravat",
+			"www.gra",
+			"?s=",
+			"gravatar",
+			"h1",
+			"text-center",
+			"list-group-item",
+			".js",
+			"node_form",
+			"#form",
+			"form",
+			"maxpla",
+			"newMap",
+			"call.new",
+			"requi",
+			"update_",
+			"update_gra",
+			"gravatar_",
+			"req",
+			"item",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"k2",
+			"k",
+			"\\n\"",
+			"",
+			"g",
+			"back",
+			"pop_front",
+			"temp2=input1.top();cout<<\"popped element is\"<<temp2<<endl;input1.pop()",
+			"input[j]",
+			"$row",
+			"txt1",
+			"$txt = $txt .",
+			"fa-trash-o",
+			"hr ",
+			"hr style=\"opacity: 0.5;\"",
+			"test",
+			"",
+			"password -u ",
+			"password -u",
+			"test2",
+			"password -u  ",
+			"mysql -u$user -p$password ",
+			"input1",
+			"https",
+			" text-center ",
+			" list-group-item ",
+			"input required",
+			"\"",
+			"4883da",
+			"black",
+			"",
+			"pyplot",
+			"jutja.com",
+			"www.jutja.com",
+			"src",
+			"xlink:href",
+			"sublime_text",
+			"/lucky/machine_learning",
+			"/lucky/machine_learning/",
+			"/lucky",
+			"input data-clear-btn=\"true\"",
+			"",
+			"jutja.com",
+			"projedit"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "3410/3410.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "7974/7974.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "8670/8670.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 431,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "378/378.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "702/702.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								413,
+								413
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "7742/7742.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "random/adarsh/2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4880,
+								4880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "spoj.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"profile",
+				"node_modules/passport-facebook/lib/profile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
